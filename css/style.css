@@ -25,6 +25,10 @@
     z-index: 99;
 }
 
+.navbar-dark .navbar-brand img {
+    max-height: 80px!important;
+}
+
 
 /*** Spinner ***/
 #spinner {
