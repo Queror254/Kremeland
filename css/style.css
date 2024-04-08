@@ -153,6 +153,10 @@
     }
 }
 
+nav a {
+    transition: color 2s ease;
+    transition-delay: 2s ease;
+}
 
 /*** Hero Header ***/
 .hero-header {
